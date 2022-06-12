@@ -20,6 +20,9 @@
 6. 注意力提醒
   - 根据不使用手机的时常来判断注意力的集中度
 
+## Repo
+[https://github.com/chenditc/face-recognition-pomodoro](https://github.com/chenditc/face-recognition-pomodoro)
+
 ## 实现路径
 
 版本 0.1:
